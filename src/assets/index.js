@@ -26,9 +26,9 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import movies from "./movies-app.png";
+import weather from "./weather.png";
+import recipe from "./recipescreen.png";
 
 export {
   logo,
@@ -56,7 +56,10 @@ export {
   shopify,
   starbucks,
   tesla,
-  carrent,
-  jobit,
-  tripguide,
+  movies,
+  weather,
+  recipe,
+  // carrent,
+  // jobit,
+  // tripguide,
 };
